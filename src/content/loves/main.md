@@ -1,7 +1,7 @@
 ---
 # title: string
 # Will be used for HTML Title
-title: "My Valentine"
+title: "YUHUUU HEHEHE"
 
 # openingPhrase: string
 # Will be used for opening phrase (header on main page)
